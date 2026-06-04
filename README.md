@@ -10,7 +10,7 @@ Founder & Principal Engineer at [VeriSwarm](https://veriswarm.ai) — the cross-
 - **[APEX](https://github.com/JoshuaAFerguson/APEX)** — multi-agent orchestration on the Claude Agent SDK: planning, implementation, testing, and review agents with Git worktree parallelism and a real-time web UI
 - **[AI Infrastructure Curriculum](https://github.com/ai-infra-curriculum)** — a 13-role curriculum maintained by autonomous agent runners with hard guardrails, append-only audit logs, and GitHub triage automation
 - **[Streamspace](https://github.com/streamspace-dev/streamspace)** — open-source multi-user container streaming platform (Go)
-- **[dotfiles](https://github.com/JoshuaAFerguson/dotfiles)** — cross-platform dev environment managed with chezmoi (Linux/macOS/Windows, 200+ aliases)
+- **[Terminal Velocity](https://github.com/JoshuaAFerguson/terminal-velocity)** — multiplayer space trading game playable entirely over SSH (Go)
 
 ## Tech stack
 
