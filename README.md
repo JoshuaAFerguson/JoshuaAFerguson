@@ -2,7 +2,7 @@
 
 I build agentic systems and the infrastructure that keeps them trustworthy.
 
-Founder & Principal Engineer at [VeriSwarm](https://veriswarm.ai) — the cross-platform trust layer for AI agents: deterministic 5-dimension trust scoring (including Brier-scored confidence calibration), transparent MCP tool-call interception, prompt-injection defense, and tamper-evident audit trails. Built solo, running in production on a self-hosted HA Kubernetes cluster.
+Founder & Principal Engineer at [VeriSwarm](https://veriswarm.ai) — the cross-platform trust layer for AI agents: deterministic 5-dimension trust scoring (including Brier-scored confidence calibration), transparent MCP tool-call interception, prompt-injection defense, and tamper-evident audit trails.
 
 ## Things worth clicking
 
